@@ -1,0 +1,8 @@
+class Greeter {
+  def hello(name) {
+    return f"Hello, {name}!"
+  }
+}
+
+greeter = Greeter()
+print(greeter.hello("Jamilpy"))
