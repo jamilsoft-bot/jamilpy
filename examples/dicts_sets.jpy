@@ -1,0 +1,5 @@
+data = {"a": 1, "b": 2}
+items = {1, 2, 3}
+if (data["a"] == 1) {
+  print(data, items)
+}
